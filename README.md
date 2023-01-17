@@ -1,4 +1,5 @@
-# algorithims-datastructure
+# Algorithms & DataStructure 👩🏻‍💻
 
-Hi 🙋🏻‍♀️. Posting solutions for the leetcode problems that I'm solving.
-Feel free to check it out! Have a great day!
+Posting solutions for the leetcode problems that I'm solving.
+
+- [Two Sum Solution](/solutions/Two_sum.py)
